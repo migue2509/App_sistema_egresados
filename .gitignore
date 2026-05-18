@@ -1,0 +1,58 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.code-workspace
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+config/*.local.php
+config/*.private.php
+
+# Dependencies
+vendor/
+node_modules/
+composer.phar
+
+# Logs, cache and temporary files
+*.log
+logs/
+cache/
+tmp/
+temp/
+.phpunit.result.cache
+.php-cs-fixer.cache
+coverage/
+*.tmp
+*.temp
+*.cache
+*.swp
+*.swo
+*~
+
+# Backup / merge artifacts
+*.bak
+*.old
+*.orig
+*.rej
+
+# Generated archives and database dumps
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.gz
+*.sql.gz
+*.dump
+*.sqlite
+*.sqlite3
+*.db
+
+# User-uploaded runtime files
+uploads/fotos/*
+!uploads/fotos/.gitkeep
