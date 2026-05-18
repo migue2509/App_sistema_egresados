@@ -1,11 +1,6 @@
 # Sistema de Egresados — I.E. Dinamarca
 
 ## Guía de Instalación y Configuración
-
-> **Nota para repositorio público:** este proyecto no debe publicarse con contraseñas reales,
-> fotos de usuarios, bases oficiales de egresados ni archivos de configuración de producción.
-> Use únicamente datos ficticios o plantillas.
-
 ---
 
 ## ESTRUCTURA DE ARCHIVOS
