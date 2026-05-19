@@ -73,10 +73,6 @@ define('DB_USER', 'usuario_local');  // Cambie por su usuario
 define('DB_PASS', 'clave_local');    // Cambie por su contraseña
 ```
 
-No publique credenciales reales en el repositorio.
-
----
-
 ## PASO 3 — SUBIR AL SERVIDOR
 
 1. Suba la carpeta `egresados/` al servidor web dentro del directorio de la página actual.
