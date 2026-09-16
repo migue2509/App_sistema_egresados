@@ -1,6 +1,6 @@
 @echo off
 REM repair_mysql_aria.bat
-REM Backup de datos, reparación Aria y borrado de logs de Aria para XAMPP
+REM Backup de datos, reparación Aria y borrado de logs de Aria pra XAMPP
 
 set "XAMPP_PATH=C:\xampp"
 set "MYSQL_DATA=%XAMPP_PATH%\mysql\data"

@@ -18,7 +18,7 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
   });
 });
 
-// Modal genérico
+// Modal genéico
 document.querySelectorAll('[data-modal-abrir]').forEach(btn => {
   btn.addEventListener('click', () => {
     const modal = document.getElementById(btn.dataset.modalAbrir);

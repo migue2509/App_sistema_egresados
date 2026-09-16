@@ -124,7 +124,7 @@ require_once BASE_DIR . 'includes/header.php';
     </div>
   </div>
 
-  <!-- Acciones rápidas -->
+  <!-- Acciones rápida -->
   <div class="card mt-2">
     <div class="card-header"><span class="icono"></span><h3>Acciones rápidas</h3></div>
     <div class="card-body acciones-rapidas">
