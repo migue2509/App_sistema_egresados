@@ -2,7 +2,7 @@
 // ============================================================
 // config/db.php — Conexión a base de datos
 // I.E. Dinamarca — Sistema de Egresados
-// ============================================================
+// ===========================================================
 
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'dinamarca_egresados');

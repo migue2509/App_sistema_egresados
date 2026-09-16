@@ -172,9 +172,10 @@ El sistema incluye:
 
 ---
 
-## AUTOR
+## AUTORES
 
 migue2509
+SamuelVelez-G
 
 ## SOPORTE
 

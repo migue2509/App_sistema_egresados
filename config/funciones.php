@@ -1,6 +1,6 @@
 <?php
 // ============================================================
-// config/funciones.php — Funciones compartidas del sistema
+// config/funciones.php — Funciones compartidas del sistem
 // I.E. Dinamarca — Sistema de Egresados
 // ============================================================
 
